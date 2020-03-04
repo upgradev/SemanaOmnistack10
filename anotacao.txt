@@ -1,0 +1,3 @@
+yarn add express -> trabalhar com rotas
+         nodemon -D -> Atualizar, refresh
+         mongoose -> comunicação com base de dados mongo
