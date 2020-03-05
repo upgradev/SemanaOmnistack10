@@ -2,9 +2,12 @@ yarn add express -> trabalhar com rotas
          nodemon -D -> Atualizar, refresh
          mongoose -> comunicação com base de dados mongo
          axios-> chamadas apis, requisções
+         cors -> permissão de rota
 
 
 ////////////react web
         //componente: bloco isolado de html, css, js o qual nao interfere no restante da aplicação
         //estado: informações mantidas pelo componente (imutabilidade)
         //propriedade: informações que um componente pai passa para o filho
+
+        axios
